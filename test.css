@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    text-align: center;
+    background-color: #EACDC2;
+}
+#heading
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: #283044;
+    background-color: #78A1BB;
+}
+.box
+{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    font-size:xxx-large;
+    background-color: #EBF5EE;
+    color: black;
+}
+.container
+{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game
+{
+    margin-left: 10px;
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+#rstbtn
+{
+    margin-left: 40px;
+    margin-top: 5vmin;
+    height: 7vmin;
+    width: 17vmin;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    font-size: medium;
+    background-color: #EBF5EE;
+}
+#newbtn
+{
+    margin: 5vmin;
+    height: 7vmin;
+    width: 17vmin;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    font-size: medium;
+    background-color: #EBF5EE;
+}
+#mess
+{
+    color: #283044;
+    font-size: xx-large;
+    margin: 3vmin;
+}
+.message.hide
+{
+    display: none;
+}
