@@ -46,10 +46,9 @@ body
 }
 #rstbtn
 {
-    margin-left: 40px;
     margin: 5vmin;
     height: 7vmin;
-    width: 17vmin;
+    width: 20vmin;
     border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: medium;
@@ -59,7 +58,7 @@ body
 {
     margin: 5vmin;
     height: 7vmin;
-    width: 17vmin;
+    width: 20vmin;
     border-radius: 1rem;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: medium;
